@@ -1,0 +1,6 @@
+{
+  "name": "strata",
+  "description": "Single-Pass Drone Video to 3D Model Dashboard with honest capability status matrix (SIH Problem Statement 17)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
